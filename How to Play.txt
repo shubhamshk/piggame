@@ -1,0 +1,13 @@
+hii , myself shubham kumar
+
+it is a ping game and is created my me, 
+
+how to play.
+there are two players in this game.
+'one player will start rolling the dice and will be alse to roll it wnil 1 comes, 
+'if 1 comes then the chance will be pased to next player and all his pouints will not be saved.
+'the one who will reach 100 points first will win this game.
+'soo make sure to play it , and enjoy....
+
+
+*********************************************************************************
